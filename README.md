@@ -16,7 +16,7 @@ A3e
  * For this one, if it's a weekend, you won't be able to see the "appointment within 15 minutes" alert because you can't schedule anything on a weekend. You would have to wait until monday.
  * So I included a screenshot in the submission so you can see.
 ----------------------
-How to run it in IntelliJ:
+# How to run it in IntelliJ:
 
   1. For the configuration in the top-right, set 'java 17' as the SDK.
 
@@ -37,15 +37,12 @@ How to run it in IntelliJ:
  9. In SDKs, make sure 17 is selected.
 
  10. In the left, make sure mysql-connector.jar file and jdk 17 is under 'external libraries'.
-----------------------
-Images
-configuration.png
-  * Hit the down arrow that is there, and click 'edit configuration'
-  * Make sure 'program arguments' has this line in it:
-  * --module-path "C:\Program Files\Java\jdk-17.0.1\lib" --add-modules javafx.controls,javafx.fxml
 
+Hit the down arrow that is there, and click 'edit configuration'
+Make sure 'program arguments' has this line in it:
+--module-path "C:\Program Files\Java\jdk-17.0.1\lib" --add-modules javafx.controls,javafx.fxml
 ----------------------
-Additional report (A3f):
+# Additional report (A3f):
 
 The additional 'reports' I did were on 2,
   1: Total number of appointments by which year they're in
@@ -58,7 +55,7 @@ Customer ID #1 is 'Daddy Warbucks'
 Customer ID #2 is 'Lady McAnderson'
 Customer ID #3 is 'Dudley Do-Right'
 
- Hitting 'stop' and running the project might reset `appointments_list` to an empty list.
+Hitting 'stop' and running the project might reset `appointments_list` to an empty list.
 Sometimes it does, sometimes it doesn't, but if it does, you have to re-add the appointments. Even if the appointments show on the GUI table.
 ----------------------
 I used the VM provided by wgu for most of it. The URL for that is https://lrps.wgu.edu/provision/289188806 for me
