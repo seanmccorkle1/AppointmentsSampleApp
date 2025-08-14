@@ -58,7 +58,7 @@ Customer ID #1 is 'Daddy Warbucks'
 Customer ID #2 is 'Lady McAnderson'
 Customer ID #3 is 'Dudley Do-Right'
 
-Hitting 'stop' and running the project might reset `appointments_list` to an empty list.
+ Hitting 'stop' and running the project might reset `appointments_list` to an empty list.
 Sometimes it does, sometimes it doesn't, but if it does, you have to re-add the appointments. Even if the appointments show on the GUI table.
 ----------------------
 I used the VM provided by wgu for most of it. The URL for that is https://lrps.wgu.edu/provision/289188806 for me
