@@ -1,25 +1,8 @@
-This application is for C195, 'software II - advanced java concepts'.
-The task code is QAM2.
-
-Title:
- 'Sample scheduling application'
+# Sample scheduling application
 
 The purpose is to build a simple JavaFX GUI that lets someone log in and make appointments for their business. The course is about java but it uses SQL to get the sample data.
-
-This is my second submission.
-------------------
-My name:
- * Sean Mccorkle
-
-My emails:
- * seanspy7@gmail.com
- * smcc627@wgu.edu
-
-WGU student ID:
- * 009964461
-
 Date submitted: 4 Jan 2025
-----------------------
+
 Rubric:
 
 "The submitted code provides an alert when there is an appointment within 15 minutes of the user’s
